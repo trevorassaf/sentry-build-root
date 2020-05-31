@@ -14,6 +14,7 @@ add_subdirectory(external/gflags/repo)
 add_subdirectory(external/glog/repo)
 #add_subdirectory(external/mysql-cpp/repo)
 
+add_subdirectory(code/sentry-client/repo)
 add_subdirectory(code/gpio14/repo)
 add_subdirectory(code/mysql-cpp-prebuilts/repo)
 add_subdirectory(external/boringssl/repo)
