@@ -1,7 +1,7 @@
 # /home/bozkurtus/Documents/codez/personal-repos/rpi-x-tools/rpi-x-toolchain-repo/rpi-newer-crosstools/x64-gcc-6.5.0/arm-rpi-linux-gnueabihf
 
-set(toolchain_dir /home/bozkurtus/Documents/codez/personal-repos/rpi-x-tools/rpi-x-toolchain-repo/rpi-newer-crosstools/x64-gcc-6.5.0/arm-rpi-linux-gnueabihf)
-set(project_root /home/bozkurtus/Documents/codez/personal-repos/sentry/project)
+set(project_root /home/bozkurtus/Documents/codez/personal-repos/sentry-gun/project)
+set(toolchain_dir ${project_root}/build/rpi3b-x-tools/repo/arm-rpi-linux-gnueabihf)
 set(project_build_root ${project_root}/x-out)
 set(xtools ${toolchain_dir}/bin)
 
